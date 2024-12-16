@@ -95,3 +95,4 @@ urllib3==2.2.3
 uvicorn==0.34.0
 watchdog==6.0.0
 websockets==14.1
+ffmpeg
